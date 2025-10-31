@@ -9,7 +9,7 @@ rules:
     expression: |
       response.status == 200 && response.body.bcontains(b'$_GET')
 detail:
-  author: SH1IN
-  version: Pandora FMS v7.0NG
+  author: SH1INroot
+  version: NUUO NVRmini 2 v3.0.8
   links:
-    - https://shells.systems/pandorafms-v7-0ng-authenticated-remote-code-execution-cve-2019-20224/
+    - https://github.com/sh1inroot-alt/nuuo-file-inclusion
