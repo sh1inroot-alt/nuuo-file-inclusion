@@ -1,5 +1,4 @@
 name: NUUO网络视频录像机 css_parser.php 任意文件读取漏洞
-transport: http
 rules:
   - method: GET
     path: /css_parser.php?css=css_parser.php
